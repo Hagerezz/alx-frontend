@@ -10,7 +10,7 @@ html {
     --color-white: #ffffff;
     --color-light-gray: #f3f3f3;
     --color-dark-gray: #353535;
-    --text-color:var(var(--color-black))
+    --text-color:var(var(--color-black));
 }
 
 body {
