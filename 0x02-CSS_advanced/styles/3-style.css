@@ -2,6 +2,7 @@
 html {
     scroll-behavior: smooth;
 }
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
@@ -10,18 +11,23 @@ html {
     --color-dark-gray: #353535;
     --text-color:var(var(--color-black))
 }
+
 body {
     color: var(--text-color);
 }
+
 a {
     color: var(--text-color);
 }
+
 .visually-hidden {
     display: none;
 }
+
 .card-category {
     color: var(--color-primary);
 }
+
 .section-tagline {
-    color: var(--color-primary)
+    color: var(--color-primary);
 }
